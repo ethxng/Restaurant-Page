@@ -1,0 +1,27 @@
+body{
+    background-color:cadetblue;
+}
+.btn{
+    display: flex;
+    gap: 10px;
+    height: 100%;
+    justify-content: flex-end;
+}
+button{
+    font-size: 20px;
+    background-color: deeppink;
+    color: black;
+}
+.image{
+    display: block;
+    margin: 0 auto;
+    height: 300px;
+    width: 400px;
+    margin-top: 80px;
+    
+}
+
+/*remember to remove this when you get to each page
+.home, .menu, .contact{
+    display: none;
+}*/
